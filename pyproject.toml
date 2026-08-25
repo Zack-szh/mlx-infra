@@ -1,7 +1,7 @@
 [project]
-name = "mlx-infra"
+name = "mlx_infra"
 version = "0.1.0"
-description = "A hand-rolled MLX inference engine, built step by step for learning"
+description = ""
 authors = [
     { name = "zack-szh", email = "919zack@gmail.com" }
 ]
